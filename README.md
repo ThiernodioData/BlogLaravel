@@ -23,17 +23,17 @@ Ce projet est une application web de blog créée avec Laravel, qui permet aux u
 Voici quelques captures d'écran de l'interface de l'application :
 
 ### Pages
-![Page d'Accueil](public/assets//screenshots/Screenshot-1.png)
-![Page d'Accueil](public/assets//screenshots/Screenshot-2.png)
-![Page d'Accueil](public/assets//screenshots/Screenshot-3.png)
-![Page d'Accueil](public/assets//screenshots/Screenshot-4.png)
-![Page d'Accueil](public/assets//screenshots/Screenshot-5.png)
-![Page d'Accueil](public/assets//screenshots/Screenshot-6.png)
-![Page d'Accueil](public/assets//screenshots/Screenshot-7.png)
-![Page d'Accueil](public/assets//screenshots/Screenshot-8.png)
-![Page d'Accueil](public/assets//screenshots/Screenshot-9.png)
-![Page d'Accueil](public/assets//screenshots/Screenshot-10.png)
-![Page d'Accueil](public/assets//screenshots/Screenshot-11.png)
+![Page d'Accueil](public/assets/screenshots/Screenshot-1.png)
+![Article](public/assets/screenshots/Screenshot-2.png)
+![Liste des Articles](public/assets/screenshots/Screenshot-3.png)
+![Détails d'un Article](public/assets/screenshots/Screenshot-4.png)
+![Page de Connexion](public/assets/screenshots/Screenshot-5.png)
+![Tableau de Bord](public/assets/screenshots/Screenshot-6.png)
+![Ajout d'Article](public/assets/screenshots/Screenshot-7.png)
+![Modification d'Article](public/assets/screenshots/Screenshot-8.png)
+![Suppression d'Article](public/assets/screenshots/Screenshot-9.png)
+![Statistiques](public/assets/screenshots/Screenshot-10.png)
+![Paramètres](public/assets/screenshots/Screenshot-11.png)
 
 
 
