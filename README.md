@@ -29,11 +29,10 @@ Ce projet est une application web de blog créée avec Laravel, qui permet aux u
 ## Aperçu
 Voici quelques captures d'écran de l'interface de l'application :
 
-### Page d'Accueil
-![Page d'Accueil](./screenshots/home_page.png)
+### Pages
+![Page d'Accueil](public/assets//screenshots/Screenshot-1.png)
 
-### Liste des Articles
-![Liste des Articles](./screenshots/article_list.png)
+
 
 ---
 
